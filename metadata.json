@@ -1,0 +1,6 @@
+{
+  "name": "SkyWatch Camera Tracker",
+  "description": "Web interface to connect to a Wi-Fi camera and track flying objects in the sky.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
